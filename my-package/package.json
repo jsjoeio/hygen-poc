@@ -1,0 +1,16 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello world\" && exit 0",
+    "g:component": "hygen component new --name"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hygen": "^5.0.1"
+  }
+}
